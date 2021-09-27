@@ -1,0 +1,6 @@
+# This is My New Branch Hello
+==
+## Hello is my first program to create branch of my main learning journey
+--
+Hello, I'm Denny. I am learning about Git and DevOps. I have intended to be a DevOps Engineer.
+I Hope I can pass the journey.
